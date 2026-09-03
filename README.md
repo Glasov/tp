@@ -16,9 +16,9 @@
 
 Дедлайнов нет, но прошу не задерживаться
 
-Отчёты по лабам нужно отарвлять в формате pdf или word сюда: https://drive.google.com/drive/folders/1f2WZb_Al-K9zGFippDP6f_2Y9MN4S3Mf?usp=sharing
+Отчёты по лабам нужно отарвлять в формате pdf или word сюда: https://drive.google.com/drive/folders/1ynOcMMz6GHrQ8QaJaj-H1tOf8b-G_WI0?usp=sharing
 
-Информация о защищённых лабах: https://docs.google.com/spreadsheets/d/1ZdbFWZJhFW3w1B5t52FRJTskf7xgN74m5BJpy1h8-ig/edit?usp=sharing
+Информация о защищённых лабах: https://docs.google.com/spreadsheets/d/17lWgMgUmyyMTPlIRyhjyIJvHSBJqEWxU5lOMgnKuSwM/edit?usp=sharing
 
 ## Оценки
 
